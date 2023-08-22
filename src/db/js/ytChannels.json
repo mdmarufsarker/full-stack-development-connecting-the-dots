@@ -1,7 +1,52 @@
 [
   {
-    "name": "",
-    "url": "",
-    "lang": ""
+    "name": "Stack Learner",
+    "url": "https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw",
+    "lang": "bn"
+  },
+  {
+    "name": "Anisul Islam",
+    "url": "https://www.youtube.com/user/ANIS3730",
+    "lang": "bn"
+  },
+  {
+    "name": "Learn with Sumit",
+    "url": "https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg",
+    "lang": "bn"
+  },
+  {
+    "name": "JS Bangladesh",
+    "url": "https://www.youtube.com/user/udbhot",
+    "lang": "bn"
+  },
+  {
+    "name": "Web Developer BD",
+    "url": "https://www.youtube.com/channel/UCZvv8EtSuh9PUhUBv0f8_CA",
+    "lang": "bn"
+  },
+  {
+    "name": "Learn with Hasin Hayder",
+    "url": "https://www.youtube.com/user/countdraculla16",
+    "lang": "bn"
+  },
+  {
+    "name": "Academind",
+    "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w",
+    "lang": "en"
+  },
+  {
+    "name": "Wes Bos",
+    "url": "https://www.youtube.com/user/wesbos",
+    "lang": "en"
+  },
+  {
+    "name": "Fun Fun Function",
+    "url": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q",
+    "lang": "en"
+  },
+  {
+    "name": "Traversy Media",
+    "url": "https://www.youtube.com/user/TechGuyWeb",
+    "lang": "en"
   }
 ]

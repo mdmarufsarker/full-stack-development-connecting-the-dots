@@ -1,6 +1,22 @@
 [
   {
-    "name": "",
-    "url": ""
+    "name": "PHP Manual",
+    "url": "https://www.php.net/manual/en/index.php"
+  },
+  {
+    "name": "PHP T Point",
+    "url": "https://www.phptpoint.com/"
+  },
+  {
+    "name": "Learn PHP",
+    "url": "https://www.learn-php.org/"
+  },
+  {
+    "name": "PHP The Right Way",
+    "url": "https://phptherightway.com/"
+  },
+  {
+    "name": "Killer PHP",
+    "url": "https://www.killerphp.com/"
   }
 ]

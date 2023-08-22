@@ -1,7 +1,32 @@
 [
   {
-    "name": "",
-    "url": "",
-    "lang": ""
+    "name": "Moshiur",
+    "url": "https://www.youtube.com/channel/UCcPGGA2RWx6C5o1xl18vUWA",
+    "lang": "bn"
+  },
+  {
+    "name": "Anisul Islam",
+    "url": "https://www.youtube.com/user/ANIS3730",
+    "lang": "bn"
+  },
+  {
+    "name": "Stack Learner",
+    "url": "https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw",
+    "lang": "bn"
+  },
+  {
+    "name": "Design Course",
+    "url": "https://www.youtube.com/user/DesignCourse",
+    "lang": "en"
+  },
+  {
+    "name": "Traversy Media",
+    "url": "https://www.youtube.com/user/TechGuyWeb",
+    "lang": "en"
+  },
+  {
+    "name": "DevTips",
+    "url": "https://www.youtube.com/user/DevTipsForDesigners",
+    "lang": "en"
   }
 ]

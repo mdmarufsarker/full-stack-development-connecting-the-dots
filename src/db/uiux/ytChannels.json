@@ -1,7 +1,37 @@
 [
   {
-    "name": "",
-    "url": "",
-    "lang": ""
+    "name": "Design Course",
+    "url": "https://www.youtube.com/user/DesignCourse",
+    "lang": "en"
+  },
+  {
+    "name": "Maex",
+    "url": "https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ",
+    "lang": "en"
+  },
+  {
+    "name": "Jesse Showalter",
+    "url": "https://www.youtube.com/user/JesseAtomic",
+    "lang": "en"
+  },
+  {
+    "name": "UXPin",
+    "url": "https://www.youtube.com/user/uxpin",
+    "lang": "en"
+  },
+  {
+    "name": "Carrer Foundry",
+    "url": "https://www.youtube.com/user/careerfoundry",
+    "lang": "en"
+  },
+  {
+    "name": "Robert Smith",
+    "url": "https://www.youtube.com/channel/UCpzWITCC0EjA9tiKeyO1i3A",
+    "lang": "en"
+  },
+  {
+    "name": "Stack Learner",
+    "url": "https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw",
+    "lang": "bn"
   }
 ]

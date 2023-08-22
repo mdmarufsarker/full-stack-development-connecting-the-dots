@@ -1,27 +1,32 @@
 [
   {
-    "name": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "PHP in Action: Objects, Design, Agilitz by Daginn Reiersol",
+    "url": "https://www.amazon.com/PHP-Action-Objects-Design-Agility/dp/1932394753",
     "lang": "en"
   },
   {
-    "name": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Programming PHP: Creating Dznamic Web Pages by Kevin Tatroe",
+    "url": "https://www.amazon.com/Programming-PHP-Creating-Dynamic-Pages/dp/1492054135",
     "lang": "en"
   },
   {
-    "name": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "PHP and MySQL Web Development by Laura Thompson",
+    "url": "https://www.amazon.com/PHP-MySQL-Development-Developers-Library/dp/0321833899",
     "lang": "en"
   },
   {
-    "name": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "PHP and MySQL Novice to Ninja by Tom Butler",
+    "url": "https://www.amazon.com/PHP-MySQL-Novice-Ninja-Speed/dp/0994346980",
     "lang": "en"
   },
   {
-    "name": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Head First PHP & MySQL by Lynn Beighley",
+    "url": "https://www.amazon.com/Head-First-PHP-MySQL-Brain-Friendly/dp/0596006306",
+    "lang": "en"
+  },
+  {
+    "name": "PHP Objects, Patterns and Practice by Matt Zandstra",
+    "url": "https://www.amazon.com/Objects-Patterns-Practice-Experts-Source/dp/143022925X",
     "lang": "en"
   }
 ]

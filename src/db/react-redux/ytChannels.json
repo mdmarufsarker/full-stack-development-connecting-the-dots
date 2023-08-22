@@ -1,7 +1,42 @@
 [
   {
-    "name": "",
-    "url": "",
-    "lang": ""
+    "name": "Learn Hunter",
+    "url": "https://www.youtube.com/channel/UC7lIh9A3Isi_v0o_bvu5dKQ",
+    "lang": "bn"
+  },
+  {
+    "name": "Stack Learner",
+    "url": "https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw",
+    "lang": "bn"
+  },
+  {
+    "name": "Anisul Islam",
+    "url": "https://www.youtube.com/user/ANIS3730",
+    "lang": "bn"
+  },
+  {
+    "name": "Learn with Sumit",
+    "url": "https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg",
+    "lang": "bn"
+  },
+  {
+    "name": "JS Bangladesh",
+    "url": "https://www.youtube.com/user/udbhot",
+    "lang": "bn"
+  },
+  {
+    "name": "Codevolution",
+    "url": "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw",
+    "lang": "en"
+  },
+  {
+    "name": "Free Code Camp",
+    "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+    "lang": "en"
+  },
+  {
+    "name": "Learn Code Academy",
+    "url": "https://www.youtube.com/user/learncodeacademy",
+    "lang": "en"
   }
 ]

@@ -1,6 +1,22 @@
 [
   {
-    "name": "",
-    "url": ""
+    "name": "React documentation",
+    "url": "https://react.dev/"
+  },
+  {
+    "name": "Redux documentation",
+    "url": "https://redux.js.org/introduction/getting-started"
+  },
+  {
+    "name": "ReactJS Examples",
+    "url": "https://reactjsexample.com/"
+  },
+  {
+    "name": "React Design Patterns",
+    "url": "https://reactpatterns.com/"
+  },
+  {
+    "name": "React For Beginners",
+    "url": "https://reactforbeginners.com/"
   }
 ]

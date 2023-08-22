@@ -1,27 +1,27 @@
 [
   {
-    "name": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Eloquent JavaScript: A Modern Introduction Programming By Marjin Heverbeke",
+    "url": "https://eloquentjavascript.net/",
     "lang": "en"
   },
   {
-    "name": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "JavaScript: The Definitive Guide, 7th Edition by David Flanagan",
+    "url": "https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language/dp/1491952024",
     "lang": "en"
   },
   {
-    "name": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "You Don't Know JS Yet (book series) - 2nd Edition by Kzle Simpson",
+    "url": "https://www.amazon.com/You-Dont-Know-JS-Yet/dp/B084DFZ6GW",
     "lang": "en"
   },
   {
-    "name": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "JavaScript: The Good Parts: The Good Parts 1st Edition by Douglas Crockford",
+    "url": "https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742",
     "lang": "en"
   },
   {
-    "name": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Effective JavaScript by David Herman",
+    "url": "https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182",
     "lang": "en"
   }
 ]

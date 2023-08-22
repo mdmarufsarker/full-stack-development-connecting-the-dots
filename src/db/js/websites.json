@@ -1,6 +1,22 @@
 [
   {
-    "name": "",
-    "url": ""
+    "name": "JavaScript Info",
+    "url": "https://javascript.info/"
+  },
+  {
+    "name": "Mozilla Developer Networks",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "হাতেকলমে জাভাস্ক্রিপ্ট",
+    "url": "https://with.zonayed.me/js/"
+  },
+  {
+    "name": "Free Code Camp",
+    "url": "https://www.freecodecamp.org/learn/"
+  },
+  {
+    "name": "Geeks For Geeks",
+    "url": "https://www.geeksforgeeks.org/javascript/"
   }
 ]

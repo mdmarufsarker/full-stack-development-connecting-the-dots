@@ -1,27 +1,42 @@
 [
   {
-    "name": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Don't Make Me Think By Steve Krug",
+    "url": "https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515",
     "lang": "en"
   },
   {
-    "name": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Design in Everyday Life By Don Norman",
+    "url": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654",
     "lang": "en"
   },
   {
-    "name": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Non Designers Design Book By Robin William",
+    "url": "https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151",
     "lang": "en"
   },
   {
-    "name": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "UX Stratrgy By Jame Levz",
+    "url": "https://www.amazon.com/UX-Strategy-Innovative-Digital-Products/dp/1449372864",
     "lang": "en"
   },
   {
-    "name": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Design Pattern for Digital System (Diana Macdonald)",
+    "url": "https://www.amazon.com/Practical-Patterns-Design-Systems-Interaction/dp/1484249372",
+    "lang": "en"
+  },
+  {
+    "name": "Inclusive Design for Digital World (Regine Gilbert)",
+    "url": "https://www.amazon.com/Inclusive-Design-Digital-World-Accessibility/dp/148425015X",
+    "lang": "en"
+  },
+  {
+    "name": "The Elements of User Expreience By Jesse James Garrett",
+    "url": "https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0735712026",
+    "lang": "en"
+  },
+  {
+    "name": "About Face By Alan Cooper",
+    "url": "https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571",
     "lang": "en"
   }
 ]

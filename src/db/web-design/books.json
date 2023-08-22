@@ -1,27 +1,32 @@
 [
   {
-    "name": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "HTML & CSS: Design and Build Websites By John Duckett",
+    "url": "https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189",
     "lang": "en"
   },
   {
-    "name": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Web Design with HTMl, CSS, JavaScript and jQuery Set By John Duckett",
+    "url": "https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442",
     "lang": "en"
   },
   {
-    "name": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Responsive Web Design with HTML5 and CSS3 By Ben Frain",
+    "url": "https://www.amazon.com/Responsive-Web-Design-HTML5-CSS-ebook/dp/B087D5FXXG",
     "lang": "en"
   },
   {
-    "name": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Beginning HTML5 and CSS3 By Benjamin Jakobus",
+    "url": "https://www.scribd.com/book/365184359/HTML5-and-CSS3-Building-Responsive-Websites",
     "lang": "en"
   },
   {
-    "name": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Mastering Bootstrap 4 By Benjamin Jakobus",
+    "url": "https://www.amazon.com/Mastering-Bootstrap-version-customized-responsive/dp/1788834909",
+    "lang": "en"
+  },
+  {
+    "name": "Bootstrap 4 Quick Start: A Beginner's Guide ti Building Responsive Layouts with Bootstrap By Jacob Lett",
+    "url": "https://www.amazon.com/Bootstrap-Quick-Start-Beginners-Responsive/dp/1732205817",
     "lang": "en"
   }
 ]

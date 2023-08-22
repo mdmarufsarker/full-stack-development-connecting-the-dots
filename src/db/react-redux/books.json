@@ -1,27 +1,32 @@
 [
   {
-    "name": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Learning React: Fundamental Web Development with React Redux by Alex Banks",
+    "url": "https://www.amazon.com/Learning-React-Functional-Development-Redux/dp/1491954620",
     "lang": "en"
   },
   {
-    "name": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "React: Up & Running: Building Web Applications by Stozan Stefanov",
+    "url": "https://www.goodreads.com/book/show/31950928-building-react-js-applications-with-redux",
     "lang": "en"
   },
   {
-    "name": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Building ReactJS Applications with Redux by David Gearz",
+    "url": "",
     "lang": "en"
   },
   {
-    "name": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Redux in Action By Garreau and Will Faurot",
+    "url": "https://www.amazon.com/Redux-Action-Marc-Garreau/dp/1617294977",
     "lang": "en"
   },
   {
-    "name": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Learn React Hooks: Build and Refactor Modern ReactJS Applications using Hooks by Daniel Bugl",
+    "url": "https://www.amazon.com/Learn-React-Hooks-refactor-applications/dp/1838641440",
+    "lang": "en"
+  },
+  {
+    "name": "Mastering React Test Driven Development by Daniel Irvine",
+    "url": "https://www.amazon.com/Mastering-React-Test-Driven-Development-maintainable/dp/1803247126",
     "lang": "en"
   }
 ]

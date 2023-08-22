@@ -1,6 +1,22 @@
 [
   {
-    "name": "",
-    "url": ""
+    "name": "w3schools",
+    "url": "https://www.w3schools.com/"
+  },
+  {
+    "name": "Mozilla Developer Networks",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn"
+  },
+  {
+    "name": "Bootstrap",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "name": "jQuery Documentation",
+    "url": "https://api.jquery.com/"
+  },
+  {
+    "name": "CSS Tricks",
+    "url": "https://css-tricks.com/"
   }
 ]

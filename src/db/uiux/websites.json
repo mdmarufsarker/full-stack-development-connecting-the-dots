@@ -1,6 +1,22 @@
 [
   {
-    "name": "",
-    "url": ""
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com/"
+  },
+  {
+    "name": "Pttrns",
+    "url": "https://pttrns.com/"
+  },
+  {
+    "name": "Screen Lane",
+    "url": "https://screenlane.com/"
+  },
+  {
+    "name": "Collect UI",
+    "url": "https://collectui.com/"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com/shots"
   }
 ]
