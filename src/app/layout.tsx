@@ -27,7 +27,7 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </Head>
-      <body className="bg-bodyColor ">
+      <body className="bg-bodyColor font-mukta">
         <main className="max-w-container mx-auto text-lightWhite h-full overflow-hidden">
           <Header title="Full Stack Development Connecting The Dots" />
           {children}
