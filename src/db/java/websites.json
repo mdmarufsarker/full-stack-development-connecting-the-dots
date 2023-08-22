@@ -4,15 +4,23 @@
     "url": "https://www.geeksforgeeks.org/"
   },
   {
-    "name": "C Programming",
-    "url": "https://www.cprogramming.com/"
-  },
-  {
     "name": "Programiz",
-    "url": "https://www.programiz.com/c-programming"
+    "url": "https://www.programiz.com/java-programming"
   },
   {
-    "name": "Learn C",
-    "url": "https://www.learn-c.org/"
+    "name": "Beginners Book",
+    "url": "https://beginnersbook.com/java-tutorial-for-beginners-with-examples/"
+  },
+  {
+    "name": "Learn Java Online",
+    "url": "https://www.learnjavaonline.org/"
+  },
+  {
+    "name": "Oracle Documentation",
+    "url": "https://docs.oracle.com/en/java/index.html"
+  },
+  {
+    "name": "Java Official Documentation",
+    "url": "https://docs.oracle.com/en/java/"
   }
 ]

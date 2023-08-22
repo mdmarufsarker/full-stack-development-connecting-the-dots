@@ -1,27 +1,27 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Beginning Database Design by Clare Churcher",
+    "url": "https://www.amazon.com/Beginning-Database-Design-Novice-Professional/dp/1590597699",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Beginning Database Design solution by Rod Stephens",
+    "url": "https://www.amazon.com/Beginning-Database-Design-Solutions-Stephens/dp/0470385499",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Six Step Relational Database Design by Fidel A Captain",
+    "url": "https://www.amazon.com/Six-Step-Relational-Database-Design-development/dp/1481942727",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "SQL Antipatterns - Avoiding The Pitfalls of Database by Bill Karwin",
+    "url": "https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Database Design & Relational Theory by Christopher J. Date",
+    "url": "https://www.amazon.com/Database-Design-Relational-Theory-Normal/dp/1449328016",
     "lang": "en"
   }
 ]

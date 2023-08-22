@@ -1,18 +1,22 @@
 [
   {
-    "name": "Geeks For Geeks",
-    "url": "https://www.geeksforgeeks.org/"
+    "name": "w3schools SQL",
+    "url": "https://www.w3schools.com/sql/"
   },
   {
-    "name": "C Programming",
-    "url": "https://www.cprogramming.com/"
+    "name": "codecademy SQL",
+    "url": "https://www.codecademy.com/learn/learn-sql"
   },
   {
-    "name": "Programiz",
-    "url": "https://www.programiz.com/c-programming"
+    "name": "SQL Zoo",
+    "url": "https://sqlzoo.net/wiki/SQL_Tutorial"
   },
   {
-    "name": "Learn C",
-    "url": "https://www.learn-c.org/"
+    "name": "My SQL Tutorial",
+    "url": "https://www.mysqltutorial.org/"
+  },
+  {
+    "name": "Learn Database",
+    "url": "https://www.learndb.com/"
   }
 ]

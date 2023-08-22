@@ -1,27 +1,37 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "DevOps Handbook : How to Create World-Class Agilitz, Reliability and Securitz in Technology Organizations by Gene Kim",
+    "url": "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "The Phoenix Project by Gene Kim",
+    "url": "https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Accelerate : The Science of Lean Software and DevOps by Nicole Forsgren",
+    "url": "https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Continuous Delivery : Reliable Software Releases through Build, Test and Deployment Automation by Jey Humble & David Farley",
+    "url": "https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Site Reliability Engineering by Betsz Beyer & Chris Jones",
+    "url": "https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X",
+    "lang": "en"
+  },
+  {
+    "name": "Site Reliability Workbook by Betsz Beyer & Niall Richard",
+    "url": "https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505",
+    "lang": "en"
+  },
+  {
+    "name": "Infrastructure as Code by Kief Morris",
+    "url": "https://www.amazon.com/Infrastructure-Code-Dynamic-Systems-Cloud/dp/1098114671",
     "lang": "en"
   }
 ]

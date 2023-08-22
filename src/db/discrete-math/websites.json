@@ -1,18 +1,14 @@
 [
   {
-    "name": "Geeks For Geeks",
-    "url": "https://www.geeksforgeeks.org/"
+    "name": "Brilliant",
+    "url": "https://brilliant.org/"
   },
   {
-    "name": "C Programming",
-    "url": "https://www.cprogramming.com/"
+    "name": "Discrete Mathematics - An Open Introduction",
+    "url": "https://discrete.openmathbooks.org/dmoi3.html"
   },
   {
-    "name": "Programiz",
-    "url": "https://www.programiz.com/c-programming"
-  },
-  {
-    "name": "Learn C",
-    "url": "https://www.learn-c.org/"
+    "name": "Journals Elsevier",
+    "url": "https://www.elsevier.com/"
   }
 ]

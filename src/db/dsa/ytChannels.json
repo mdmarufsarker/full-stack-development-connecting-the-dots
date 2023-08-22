@@ -1,28 +1,32 @@
 [
-    {
-      "name": "Anisul Islam",
-      "url": "https://www.youtube.com/user/ANIS3730",
-      "lang": "bn"
-    },
-    {
-      "name": "Tamim Sahriar Subeen",
-      "url": "https://www.youtube.com/user/subeents",
-      "lang": "bn"
-    },
-    {
-      "name": "Stack Learner",
-      "url": "https://www.youtube.com/c/StackLearner",
-      "lang": "bn"
-    },
-    {
-      "name": "Neso Academy",
-      "url": "https://www.youtube.com/user/nesoacademy",
-      "lang": "en"
-    },
-    {
-      "name": "Caleb Currz",
-      "url": "https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA",
-      "lang": "en"
-    }
-  ]
-  
+  {
+    "name": "Tamim Sahriar Subeen",
+    "url": "https://www.youtube.com/user/subeents",
+    "lang": "bn"
+  },
+  {
+    "name": "Love Extends Code",
+    "url": "https://www.youtube.com/user/dipmessi10",
+    "lang": "bn"
+  },
+  {
+    "name": "Stack Learner",
+    "url": "https://www.youtube.com/c/StackLearner",
+    "lang": "bn"
+  },
+  {
+    "name": "MIT Open Course",
+    "url": "https://www.youtube.com/user/MIT",
+    "lang": "en"
+  },
+  {
+    "name": "Applied Course",
+    "url": "https://www.youtube.com/channel/UC4_AV_DlLXKdtYDV94Y4Jow",
+    "lang": "en"
+  },
+  {
+    "name": "Jenny's Lectures",
+    "url": "https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists",
+    "lang": "en"
+  }
+]

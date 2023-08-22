@@ -1,27 +1,32 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Introduction To Algorithm By Thomas H. Cormen",
+    "url": "",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "The Algorithm Design Manual By Steven Skiena",
+    "url": "https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "ALgorithms By Robert Sedgewick",
+    "url": "https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Data Structure and Algorithms in Java By Michael T. Goodrich",
+    "url": "https://www.amazon.com/Data-Structures-Algorithms-Java-6th-ebook/dp/B00JDRQF8C",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Head First Object Oriented Analysis & Design By Brett Mclaughlin",
+    "url": "https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678",
+    "lang": "en"
+  },
+  {
+    "name": "Introduction to the Design and Analysis of Algorithms By Ananz Levitin",
+    "url": "https://www.amazon.com/Introduction-Design-Analysis-Algorithms-3rd/dp/0132316811",
     "lang": "en"
   }
 ]

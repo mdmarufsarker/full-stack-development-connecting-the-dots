@@ -1,18 +1,14 @@
 [
   {
-    "name": "Geeks For Geeks",
-    "url": "https://www.geeksforgeeks.org/"
+    "name": "NodeJS Documentation",
+    "url": "about:blank"
   },
   {
-    "name": "C Programming",
-    "url": "https://www.cprogramming.com/"
+    "name": "NodeJS Dev",
+    "url": "https://nodejs.dev/en/"
   },
   {
-    "name": "Programiz",
-    "url": "https://www.programiz.com/c-programming"
-  },
-  {
-    "name": "Learn C",
-    "url": "https://www.learn-c.org/"
+    "name": "Node School",
+    "url": "https://nodeschool.io/"
   }
 ]

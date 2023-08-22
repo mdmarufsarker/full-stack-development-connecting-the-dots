@@ -1,28 +1,12 @@
 [
-    {
-      "name": "Anisul Islam",
-      "url": "https://www.youtube.com/user/ANIS3730",
-      "lang": "bn"
-    },
-    {
-      "name": "Tamim Sahriar Subeen",
-      "url": "https://www.youtube.com/user/subeents",
-      "lang": "bn"
-    },
-    {
-      "name": "Stack Learner",
-      "url": "https://www.youtube.com/c/StackLearner",
-      "lang": "bn"
-    },
-    {
-      "name": "Neso Academy",
-      "url": "https://www.youtube.com/user/nesoacademy",
-      "lang": "en"
-    },
-    {
-      "name": "Caleb Currz",
-      "url": "https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA",
-      "lang": "en"
-    }
-  ]
-  
+  {
+    "name": "Caleb Curry",
+    "url": "https://www.youtube.com/user/CalebTheVideoMaker2",
+    "lang": "en"
+  },
+  {
+    "name": "kudvenkat",
+    "url": "https://www.youtube.com/user/kudvenkat",
+    "lang": "en"
+  }
+]

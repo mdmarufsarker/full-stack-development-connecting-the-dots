@@ -1,27 +1,32 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "NodeJS in Action by Mike Cantelon",
+    "url": "https://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Express in Action by Evan Hahn",
+    "url": "https://www.amazon.com/Express-Action-Writing-building-applications/dp/1617292427",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Professional NodeJS: Building JavaScript Based Scalable Software by Pedro",
+    "url": "https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable/dp/1118185463",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Practice NodeJS: Building Real World Scalable Web Apps by Ayat Mardan",
+    "url": "https://www.amazon.com/Practical-Node-js-Building-Real-World-Scalable/dp/1430265957",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Node: Up & Running By Mike Wilson",
+    "url": "https://www.amazon.com/Node-Running-Scalable-Server-Side-JavaScript/dp/1449398588",
+    "lang": "en"
+  },
+  {
+    "name": "NodeJS Design Patterns by Mario Casciaro",
+    "url": "https://www.amazon.com/Node-js-Design-Patterns-production-grade-applications/dp/1839214112",
     "lang": "en"
   }
 ]

@@ -4,15 +4,11 @@
     "url": "https://www.geeksforgeeks.org/"
   },
   {
-    "name": "C Programming",
-    "url": "https://www.cprogramming.com/"
-  },
-  {
     "name": "Programiz",
-    "url": "https://www.programiz.com/c-programming"
+    "url": "https://www.programiz.com/java-programming"
   },
   {
-    "name": "Learn C",
-    "url": "https://www.learn-c.org/"
+    "name": "Java Point",
+    "url": "https://www.javatpoint.com/"
   }
 ]

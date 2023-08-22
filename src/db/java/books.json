@@ -1,27 +1,32 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Java : How To Program By Deitel, Deitel",
+    "url": "https://www.amazon.com/Java-How-Program-9th-Deitel/dp/0132575663",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Head First Java By Bert Bates",
+    "url": "https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Java Complete Reference By Herbert Schildt",
+    "url": "https://www.amazon.com/Java-Complete-Reference-Eleventh/dp/1260440230",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Thinking In Java By Bruce Eckel",
+    "url": "https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Head First Object Oriented Analysis & Design By Brett Mclaughlin",
+    "url": "https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678",
+    "lang": "en"
+  },
+  {
+    "name": "Head First Design Patterns By Freeman",
+    "url": "https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124",
     "lang": "en"
   }
 ]

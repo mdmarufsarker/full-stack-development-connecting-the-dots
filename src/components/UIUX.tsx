@@ -14,8 +14,8 @@ export default function UIUX() {
             <h3 className="px-4 py-2 bg-blue-700 rounded-lg mb-4 text-2xl font-bold">
               Books
             </h3>
-            {books &&
-              books.map((book, index) => {
+            {books[0].name !== "" ? (
+              books?.map((book, index) => {
                 return (
                   <Link
                     href={book.url}
@@ -23,19 +23,25 @@ export default function UIUX() {
                     className="px-4 py-2 my-1 bg-lightWhite text-bodyColor rounded-lg hover:bg-yellow-500 transition-all"
                     target="_blank"
                   >
-                    {book.bookName}
+                    {book.name}
                   </Link>
                 );
-              })}
+              })
+            ) : (
+              <p className="px-4 py-2 my-1 bg-lightWhite text-bodyColor rounded-lg hover:bg-yellow-500 transition-all">
+                Coming Soon...
+              </p>
+            )}
           </div>
           <div className="flex flex-col gap-2 text-center">
             <h3 className="px-4 py-2 bg-blue-700 rounded-lg mb-4 text-2xl font-bold">
               YouTube Channels
             </h3>
-            {ytChannels &&
+            {ytChannels[0].name !== "" ? (
               ytChannels.map((yt, index) => {
                 return (
                   <Link
+                    // if url doesn't exits then use # otherwise use url
                     href={yt.url}
                     key={index}
                     className="px-4 py-2 my-1 bg-lightWhite text-bodyColor rounded-lg hover:bg-yellow-500 transition-all"
@@ -44,13 +50,18 @@ export default function UIUX() {
                     {yt.name}
                   </Link>
                 );
-              })}
+              })
+            ) : (
+              <p className="px-4 py-2 my-1 bg-lightWhite text-bodyColor rounded-lg hover:bg-yellow-500 transition-all">
+                Coming Soon...
+              </p>
+            )}
           </div>
           <div className="flex flex-col gap-2 text-center">
             <h3 className="px-4 py-2 bg-blue-700 rounded-lg mb-4 text-2xl font-bold">
               Websites
             </h3>
-            {websites &&
+            {websites[0].name !== "" ? (
               websites.map((website, index) => {
                 return (
                   <Link
@@ -61,7 +72,12 @@ export default function UIUX() {
                     {website.name}
                   </Link>
                 );
-              })}
+              })
+            ) : (
+              <p className="px-4 py-2 my-1 bg-lightWhite text-bodyColor rounded-lg hover:bg-yellow-500 transition-all">
+                Coming Soon...
+              </p>
+            )}
           </div>
         </div>
       </div>

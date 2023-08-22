@@ -1,27 +1,37 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "System Analysis and Design by Denis, Wixom & Roth",
+    "url": "https://www.amazon.com/Systems-Analysis-Design-Alan-Dennis/dp/1118897846",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Clean Architecture - A Craftsman Guide to Software Structure and Design by Robert C. Martin",
+    "url": "https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Designing Data Intensive Application by Martin Cleppmann",
+    "url": "https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Patterns of Enterprise Application Architecture by Martin Fowler",
+    "url": "https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "System Analysis and Design by Scott Tilley",
+    "url": "https://www.amazon.com/Systems-Analysis-Design-MindTap-Course/dp/0357117816",
+    "lang": "en"
+  },
+  {
+    "name": "Modern System Analysis and Design by Joshep Valacich",
+    "url": "https://www.amazon.com/Modern-Systems-Analysis-Design-8th/dp/0134204921",
+    "lang": "en"
+  },
+  {
+    "name": "Designing Distributed Systems : Patterns and paradigms For Scalable and Reliable Services by Brendan Burns",
+    "url": "https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647",
     "lang": "en"
   }
 ]

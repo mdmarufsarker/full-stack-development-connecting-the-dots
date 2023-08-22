@@ -1,26 +1,26 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
+    "name": "Beginning In C by Ivor Horton",
     "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
+    "name": "C: How To Program By Deitel, Deitel",
     "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
+    "name": "Programming In ANSI C By Balagurusamy",
     "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
+    "name": "The C Programming Language By Dennis Ritche",
     "url": "https://kremlin.cc/k&r.pdf",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
+    "name": "Computer Programming (Tamim Sahriar Subin)",
     "url": "http://cpbook.subeen.com/",
     "lang": "en"
   }

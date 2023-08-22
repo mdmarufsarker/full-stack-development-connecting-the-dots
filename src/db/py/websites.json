@@ -1,18 +1,22 @@
 [
   {
-    "name": "Geeks For Geeks",
-    "url": "https://www.geeksforgeeks.org/"
+    "name": "Python Bangla",
+    "url": "#"
   },
   {
-    "name": "C Programming",
-    "url": "https://www.cprogramming.com/"
+    "name": "মাকসুদুর রহমান মাটিন",
+    "url": "https://python.maateen.me/"
+  },
+  {
+    "name": "Google's Python Class",
+    "url": "https://developers.google.com/edu/python"
   },
   {
     "name": "Programiz",
-    "url": "https://www.programiz.com/c-programming"
+    "url": "https://www.programiz.com/python-programming"
   },
   {
-    "name": "Learn C",
-    "url": "https://www.learn-c.org/"
+    "name": "Real Python",
+    "url": "https://realpython.com/"
   }
 ]

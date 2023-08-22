@@ -1,28 +1,37 @@
 [
-    {
-      "name": "Anisul Islam",
-      "url": "https://www.youtube.com/user/ANIS3730",
-      "lang": "bn"
-    },
-    {
-      "name": "Tamim Sahriar Subeen",
-      "url": "https://www.youtube.com/user/subeents",
-      "lang": "bn"
-    },
-    {
-      "name": "Stack Learner",
-      "url": "https://www.youtube.com/c/StackLearner",
-      "lang": "bn"
-    },
-    {
-      "name": "Neso Academy",
-      "url": "https://www.youtube.com/user/nesoacademy",
-      "lang": "en"
-    },
-    {
-      "name": "Caleb Currz",
-      "url": "https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA",
-      "lang": "en"
-    }
-  ]
-  
+  {
+    "name": "Web Developer BD",
+    "url": "https://www.youtube.com/channel/UCZvv8EtSuh9PUhUBv0f8_CA",
+    "lang": "bn"
+  },
+  {
+    "name": "Stack Learner",
+    "url": "https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw",
+    "lang": "bn"
+  },
+  {
+    "name": "Anisul Islam",
+    "url": "https://www.youtube.com/user/ANIS3730",
+    "lang": "bn"
+  },
+  {
+    "name": "Academind",
+    "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w",
+    "lang": "en"
+  },
+  {
+    "name": "Programming Knowledge",
+    "url": "https://www.youtube.com/user/ProgrammingKnowledge",
+    "lang": "en"
+  },
+  {
+    "name": "The Net Ninja",
+    "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
+    "lang": "en"
+  },
+  {
+    "name": "Codedamn",
+    "url": "https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ",
+    "lang": "en"
+  }
+]

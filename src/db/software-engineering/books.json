@@ -1,27 +1,42 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Introduction to Software Engineering By Ronald J Leach",
+    "url": "https://www.amazon.com/Introduction-Software-Engineering-Ronald-Leach/dp/0367575035",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Clean Code By Robert Cecil Martin",
+    "url": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "The Pragmatic Programmer By Andz Hunt and David Thomas",
+    "url": "https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
+    "name": "Design Patterns: Elements of Reusable Object-Oriented Software By Erich Gamma",
+    "url": "https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612",
     "lang": "en"
   },
   {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "The Clean Coder: A Code of Conduct for Professional Programmers By Robert Cecil Martin",
+    "url": "https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073",
+    "lang": "en"
+  },
+  {
+    "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design By Robert Cecil Martin",
+    "url": "https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164",
+    "lang": "en"
+  },
+  {
+    "name": "Refactoring: Improving the Design of Existing Code By Martin Fowler",
+    "url": "https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599",
+    "lang": "en"
+  },
+  {
+    "name": "The Mythical Man-Month: Essays on Software Engineering By Frederick P. Brooks Jr.",
+    "url": "https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959",
     "lang": "en"
   }
 ]

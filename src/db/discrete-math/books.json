@@ -1,27 +1,17 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "Discrete Mathematics And Its Application By Kcnncih H. Rosen",
+    "url": "https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Discrete Mathematics: An Open Introduction By Oscar Levin, Deitel",
+    "url": "https://www.amazon.com/Discrete-Mathematics-Introduction-Oscar-Levin/dp/1534970746",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
-    "lang": "en"
-  },
-  {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
-    "lang": "en"
-  },
-  {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Concrete Mathematics By Donald Knuth",
+    "url": "https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025",
     "lang": "en"
   }
 ]

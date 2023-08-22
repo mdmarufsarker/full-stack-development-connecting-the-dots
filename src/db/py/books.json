@@ -1,27 +1,32 @@
 [
   {
-    "bookName": "Beginning In C by Ivor Horton",
-    "url": "https://www.amazon.com/Beginning-Experts-Voice-Ivor-Horton/dp/1430248815",
+    "name": "পাইথন পরিচিতি by তামিম শাহরিয়ার সুবিন",
+    "url": "https://www.rokomari.com/book/101763/python-porichiti",
+    "lang": "bn"
+  },
+  {
+    "name": "সহজ ভাষায় পাইথন ৩ by মাকসুদুর রহমান মাটিন",
+    "url": "https://www.rokomari.com/book/127980/shohoz-vashay-python-3",
+    "lang": "bn"
+  },
+  {
+    "name": "Python Crash Course by Eric Matthews",
+    "url": "https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_2?keywords=python+crash+course&qid=1692666181&s=books&sprefix=python+cra%2Cstripbooks-intl-ship%2C496&sr=1-2",
     "lang": "en"
   },
   {
-    "bookName": "C: How To Program By Deitel, Deitel",
-    "url": "https://faculty.ksu.edu.sa/sites/default/files/c_how_to_program_with_an_introduction_to_c_global_edition_8th_edition.pdf",
+    "name": "Head First Python by Paul Berrz",
+    "url": "https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide/dp/1491919531",
     "lang": "en"
   },
   {
-    "bookName": "Programming In ANSI C By Balagurusamy",
-    "url": "https://www.amazon.com/Programming-Ansi-C-8Th-Balagurusamy/dp/935316513X",
+    "name": "Python Programming: An Introduction to Computer Science by John Zell_v",
+    "url": "https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1887902996",
     "lang": "en"
   },
   {
-    "bookName": "The C Programming Language By Dennis Ritche",
-    "url": "https://kremlin.cc/k&r.pdf",
-    "lang": "en"
-  },
-  {
-    "bookName": "Computer Programming (Tamim Sahriar Subin)",
-    "url": "http://cpbook.subeen.com/",
+    "name": "Fluent Python: Powerful Object Oriented Programming by Mark Lutz",
+    "url": "https://www.amazon.com/Programming-Python-Powerful-Object-Oriented/dp/0596158106",
     "lang": "en"
   }
 ]
